@@ -8,6 +8,18 @@ const diaSemana = [
   'sabado'
 ]
 
+function setGreen() {
+  document.getElementsByTagName('body')[0].classList = 'green'
+}
+
+function setBlue() {
+  document.getElementsByTagName('body')[0].classList = 'blue'
+}
+
+function setYellow() {
+  document.getElementsByTagName('body')[0].classList = ''
+}
+
 function createGame(team1, hour, team2) {
   return `
     <li>

@@ -41,6 +41,33 @@ body * {
   font-family: 'Roboto', sans-serif;
 }
 
+.colors {
+  display: flex;
+  justify-content: right;
+  gap: 5px;
+  padding-top: 5px;
+  padding-right: 5px;
+}
+
+.colors button {
+  width: 30px;
+  height: 30px;
+  border: 0px solid black;
+  border-radius: 50%;
+}
+
+.green {
+  background-color: #047c3f;
+}
+
+.blue {
+  background-color: #338af3;
+}
+
+.yellow {
+  background-color: #f7dd43;
+}
+
 #app {
   width: fit-content;
   margin: 52px auto;
