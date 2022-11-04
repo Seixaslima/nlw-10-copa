@@ -35,8 +35,6 @@ Calendario com os jogo da copa do Mundo FIFA 2022
 
 Clicando [nesse LINK](<https://www.figma.com/file/b516cuwYILW6eWfhAu1EOD/Calend%C3%A1rio-de-Jogos-(Community)?node-id=122%3A130s>) você pode conferir o layout da pagina. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 🧠 Desafio
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
